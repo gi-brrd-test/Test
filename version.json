@@ -1,8 +1,8 @@
 {
-  "name": "REPO_NAME",
+  "name": "Test",
   "version": "1.0.0",
-  "description": "REPO_DESC",
+  "description": "Test-Nata",
   "author": "Integracion",
-  "grupo": "REPO_GRUPO",
+  "grupo": "Financieras",
   "displayAll": true
 }
